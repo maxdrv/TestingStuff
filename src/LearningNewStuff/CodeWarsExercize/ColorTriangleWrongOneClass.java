@@ -1,6 +1,6 @@
 package LearningNewStuff.CodeWarsExercize;
 
-class StringTask {
+class ColorTriangleWrongOneClass {
 
     public void entry() {
 
