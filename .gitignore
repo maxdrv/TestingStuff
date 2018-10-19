@@ -3,6 +3,7 @@
 .idea/*
 /out/
 /test/
+src/aplana/
 
 # Log file
 *.log
